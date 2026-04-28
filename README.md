@@ -247,7 +247,3 @@ Answer + Source Pages displayed in chat
 | `langchain-huggingface` | HuggingFace LLM integration |
 
 ---
-
-## 📝 License
-
-This project is open source and available under the MIT License.
